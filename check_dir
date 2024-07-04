@@ -1,0 +1,18 @@
+import os
+
+def get_subdirectories(directory_path):
+    entries = os.listdir(directory_path)
+    subdirectories = []
+    for entry in entries:
+        if os.path.isdir(os.path.join(directory_path, entry)):
+            subdirectories.append(entry)
+    return subdirectories
+
+
+
+
+# Example usage:
+directory_path = 'D:/LLM/Ollama'  # Replace with your directory path
+sub_directories = get_subdirectories(directory_path)
+print("Sub-directories:", sub_directories)
+print("Sub-directories:", len(sub_directories))
