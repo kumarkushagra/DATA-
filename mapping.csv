@@ -19,10 +19,6 @@ uhid,date,Time,new_study_id,batch_no,name_of_StudyID
 500261564,2024-07-02,12:05:00.288852,['d4bf0702-3d4dc8e0-00a6978e-d7c71002-119f2a1d'],Batch6,Bleed_18
 500261529,2024-07-02,12:05:13.194066,['91965a6b-1c9435da-e7f11a5e-1baf335a-d4fc55d0'],Batch7,Bleed_19
 500261529,2024-07-02,12:06:06.690321,['e7cc7ce3-f57178f8-09ccad3e-3cf9ed01-fa5ee970'],Batch8,Bleed_20
-
-
-
-# REMOVED FROM PACS
 105328781,2024-07-04,13:49:26,['ef8f1c11-4ded34d3-b4cc6b08-140d45fe-35f44814'],Batch9,Bleed_Intraventricular_1
 500262267,2024-07-04,13:49:30,['e0cbe719-229c547e-0d0ce193-0a5d8d86-b84f2a2b'],Batch9,Bleed_Contusion_1
 500261529,2024-07-04,13:49:35,['eda375ef-e183c87e-a8fe127d-686a374c-cb8b063d'],Batch9,Bleed_Contusion_2
